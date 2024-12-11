@@ -1,0 +1,34 @@
+{
+  "livros": [
+    {
+      "titulo": "a volta do que nao foram",
+      "autor": "edecio",
+      "isbn": "192381923",
+      "ano": 1990
+    }
+  ],
+  "membros": [
+    {
+      "_nome": "gladius",
+      "_telefone": "43398989",
+      "_matricula": "129839123"
+    }
+  ],
+  "emprestimos": [
+    {
+      "_livro": {
+        "titulo": "a volta do que nao foram",
+        "autor": "edecio",
+        "isbn": "192381923",
+        "ano": 1990
+      },
+      "_membro": {
+        "_nome": "gladius",
+        "_telefone": "43398989",
+        "_matricula": "129839123"
+      },
+      "_dataEmprestimo": "2024-12-11T14:54:19.776Z",
+      "_dataDevolucao": "2024-12-25T14:54:19.776Z"
+    }
+  ]
+}
